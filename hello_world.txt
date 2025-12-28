@@ -1,0 +1,1 @@
+This is me trying out git in Odin Project's first git assignment.
